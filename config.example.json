@@ -1,0 +1,11 @@
+{
+  "server": {
+    "domain": "http://localhost",
+    "port": 8080
+  },
+  "auth": {
+    "apiKey": "<PUT YOU API KEY HERE>"
+  },
+  "channelIds": ["CHANNEL ID"]
+
+}
